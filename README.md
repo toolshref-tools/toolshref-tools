@@ -1,8 +1,15 @@
-# Toolshref Tools – Developer Utilities
+Toolshref Tools – Developer Utilities Collection
 
-A collection of free online developer tools from **Toolshref.com** designed to make development faster and easier.
+A curated collection of free, high-quality developer tools from Toolshref.com, built to simplify daily development tasks such as JSON formatting, POJO generation, date-time parsing, Mermaid diagram creation, and more.
 
-This repository contains examples, documentation, and usage guides for:
+This repository provides examples, documentation, and usage guides for each tool.
+Perfect for developers, students, and engineers who want faster and cleaner workflows.
+
+🌐 Website: https://toolshref.com
+
+
+📦 Category: Dev Tools / Code Generators / Formatters
+💡 Completely Free & Open
 
 - JAVA Code Formatter
 - JSON → POJO Generator
@@ -40,4 +47,7 @@ Generate visual dependency trees for package.json.
 → https://toolshref.com/npm-dependency-visualizer/
 
 ---
+⭐ Support the Project
 
+If you find Toolshref useful, consider giving this GitHub repo a star 🌟
+It helps the project grow and motivates further development!
